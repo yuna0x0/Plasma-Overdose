@@ -1,0 +1,26 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "notify-ctrl"
+            }
+        ],
+        "Category": "",
+        "Description": "Plasma-Overdose theme for kde plasma",
+        "Id": "Plasma-Overdose",
+        "License": "GPL3.0",
+        "Name": "Plasma-Overdose",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "",
+        "Website": "https://github.com/Notify-ctrl/Plasma-Overdose"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Overdose;",
+    "X-KDE-ParentApp": "",
+    "X-KDE-fallbackPackage": "org.kde.breeze.desktop",
+    "X-KPackage-Dependencies": "kns://colorschemes.knsrc/api.kde-look.org/1700393,kns://aurorae.knsrc/api.kde-look.org/1700394,kns://xcursor.knsrc/api.kde-look.org/1700441",
+    "X-Plasma-MainScript": "defaults"
+}
