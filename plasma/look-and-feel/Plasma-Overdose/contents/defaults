@@ -6,7 +6,7 @@ name=Plasma-Overdose
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Plasma-Overdose_x1.5
+theme=__aurorae__svg__Plasma-Overdose
 
 [kcminputrc][Mouse]
 cursorTheme=Plasma-Overdose
